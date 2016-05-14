@@ -2,3 +2,21 @@
 	font-size: 1.1em;
 	font-weight: bold;
 }
+
+.white {
+	color: #fff;
+}
+
+p.pad_bottom {
+	padding-bottom: 10px;
+}
+
+#contact_form {
+	background: #195f88 none repeat scroll 0 0;
+	padding: 10px;
+	text-align: center;
+}
+
+#contact_form h3 {
+	color: #fff;
+}
